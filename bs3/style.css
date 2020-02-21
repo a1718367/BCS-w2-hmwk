@@ -1,0 +1,17 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-image: linear-gradient(to right, #25221e, white);
+    
+  }
+  .navbar-brand{
+      font-size: xx-large;
+      color: white;
+      opacity: 70%;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  /* Add a gray background color and some padding to the footer */
+  footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+  }
