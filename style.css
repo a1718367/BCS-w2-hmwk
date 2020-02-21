@@ -1,0 +1,23 @@
+.navbar{
+    background-color: #25221e;
+    margin-top: 5px !important;
+}
+nav .navbar-brand{
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    opacity: 70%;
+    color: #ffffff;    
+}
+
+}
+nav .navbar-nav a{
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    opacity: 70%;
+    
+}
+nav .navbar-nav a:hover{
+    text-decoration: underline;
+    color: white;
+    opacity: 100%;
+}
