@@ -26,14 +26,13 @@ div.container-fluid.header{
 }
 h1.display-4{
     font-size: 5vw;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding-top: 2%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: black;
-    opacity: 70%;
     font-weight: lighter;
-    
+    font-size: 5vw;   
 }
+
 
 footer{
     position: fixed;
