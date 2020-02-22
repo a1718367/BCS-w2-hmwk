@@ -34,10 +34,24 @@ h1.display-4{
 }
 
 footer{
-    position: fixed;
+    position:fixed;
     bottom: 0;
     width: 100%;
+    text-align: right;
     
+}
+div.row{
+    margin-top: 1em;
+}
+.profile{
+    max-width: 20%;
+    float: left;
+    padding-right: 1em;
+}
+@media screen and (max-width:768px){
+    .profile{
+        max-width: 100%;
+    }
 }
 
 /*contact*/
