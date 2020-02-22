@@ -21,7 +21,7 @@ nav .navbar-nav a:hover{
     color: white;
     opacity: 100%;
 }
-div.container-fluid.header{
+div.jumbotron.jumbotron-fluid.header{
     background-image: linear-gradient(to bottom, #25221e, white);
 }
 h1.display-4{
@@ -33,10 +33,18 @@ h1.display-4{
     font-size: 5vw;   
 }
 
-
 footer{
     position: fixed;
     bottom: 0;
     width: 100%;
     
+}
+
+/*contact*/
+
+.container.contact{
+    margin-top: 1em;
+}
+button.btn.btn-dark{
+    margin-top: 1em;
 }
